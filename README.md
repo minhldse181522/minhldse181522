@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Voting Poll Real Time Website<br>🌱 I’m currently learning "Data Structure and Algorithm"<br>📫 How to reach me leducminhdhqt@gmail.com<br>⚡ Fun fact there is an music video that I'm the singer
+🔭 I’m currently working on Banking App<br>🌱 I’m currently learning "Data Structure and Algorithm"<br>📫 How to reach me leducminhdhqt@gmail.com<br>⚡ Fun fact there is an music video that I'm the singer
 
 
 # 💻 Tech Stack:
